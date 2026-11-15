@@ -15,3 +15,6 @@ Application console simple pour gérer des taches quotidiennes.
 
 ## Exécution
 ouvrir main.py dans vs code, puis cliquer sur le bouton Run Python File.
+
+## Auteur
+Projet réalisée par safa-dakhli.
