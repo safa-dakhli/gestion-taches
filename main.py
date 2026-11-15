@@ -1,3 +1,4 @@
+# Application de gestion des taches - version 1
 taches = []
 def afficher_menu():
     print("\n=== GESTION DES TACHES ===")
